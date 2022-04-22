@@ -6,7 +6,7 @@
 
 * **Step 1:** Install homebrew by running the following command in terminal
 
-> ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
 
 * **Step 2:** Download Brewfile to a place on your computer. 
 
@@ -14,6 +14,6 @@
 
 * **Step 3:** run the following command to install 
 
-> ```brew bundle install --file /Users/anthonytabano/Desktop/Brewfile```
+```brew bundle install --file /Users/anthonytabano/Desktop/Brewfile```
 
 Reference: [HomeBrew Install Instructions](https://brew.sh/)
